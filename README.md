@@ -13,7 +13,7 @@ This plugin allows you to create Chromatic Aberration effects in any color.
 If you want to create an chromatic aberration effect using only red, blue and/or green, there is a much simpler way, and you may not need this plugin at all.
 
 - Create a clone-layer, with of your input-layer (or group) as source: Right-click on your input-layer -> Add -> Add Clone Layer.
-- Set the clone-layer's blending mode to "Copy Red", "Copy Blue" or "Copy Green"
+- Set the clone-layer's blending mode to "Copy Red", "Copy Blue" or "Copy Green" (in the "Misc" Category)
 - Move the clone-layer using the "Move a Layer" tool (hotkey: T)
 
 ## Installation
