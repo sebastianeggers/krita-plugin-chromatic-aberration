@@ -38,3 +38,4 @@ If you want to create an chromatic aberration effect using only red, blue and/or
 
 ## TODO
 - Add docker with the ability to pre-select one or more colors and offsets
+- Known bug: The Chromatic Aberration layer will affect other layers that are placed below it in unintended ways. To work around this, put other layers above the Chromatic Aberration layer.
